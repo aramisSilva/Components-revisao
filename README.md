@@ -1,1 +1,1 @@
-Revisando React.
+React SPA
